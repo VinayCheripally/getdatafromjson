@@ -1,0 +1,1 @@
+information_file = "data/company.json"
